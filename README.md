@@ -4,4 +4,4 @@ This repository includes a number of microservices that can be used to perform s
 
 Most of these are written in python. Some are in go, swift, or javascript as well, where anything in go, swift, or javascript should also be available in python. Some are written specifically to be run as a Google Cloud Function or Lambda. In those cases there should either be a prefix or a curl example in the comments.
 
-The LICENSE chosen was meant to be as permissive as possible. No need for any mention or whatever, although it's always kind to hear your name here and there!
+The LICENSE chosen was meant to be as permissive as possible. No need for any mention or whatever, although it's always kind to hear your name here and there! But seriously, free to use however you want.
